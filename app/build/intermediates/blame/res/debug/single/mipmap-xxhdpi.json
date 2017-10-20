@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\android\\LocalizaMedicos\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher_round.png",
+        "source": "E:\\android\\LocalizaMedicos\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\android\\LocalizaMedicos\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher.png",
+        "source": "E:\\android\\LocalizaMedicos\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    }
+]

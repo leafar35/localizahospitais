@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\android\\LocalizaMedicos\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_action_back.png",
+        "source": "E:\\android\\LocalizaMedicos\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_back.png"
+    },
+    {
+        "merged": "E:\\android\\LocalizaMedicos\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_action_usermd.png",
+        "source": "E:\\android\\LocalizaMedicos\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_usermd.png"
+    },
+    {
+        "merged": "E:\\android\\LocalizaMedicos\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_action_helper.png",
+        "source": "E:\\android\\LocalizaMedicos\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_helper.png"
+    },
+    {
+        "merged": "E:\\android\\LocalizaMedicos\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_action_place.png",
+        "source": "E:\\android\\LocalizaMedicos\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_place.png"
+    }
+]

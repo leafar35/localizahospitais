@@ -1,0 +1,7 @@
+#Thu Oct 19 13:00:39 BRST 2017
+base.0=E\:\\android\\LocalizaMedicos\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_fdfde7b400cee3086721ef8493834940f036fa02
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=E\:\\android\\LocalizaMedicos\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_9925e9a55da3766d333ed524c85886b529232e76\\classes.dex
+base.1=E\:\\android\\LocalizaMedicos\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_9925e9a55da3766d333ed524c85886b529232e76
+file.0=E\:\\android\\LocalizaMedicos\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_fdfde7b400cee3086721ef8493834940f036fa02\\classes.dex

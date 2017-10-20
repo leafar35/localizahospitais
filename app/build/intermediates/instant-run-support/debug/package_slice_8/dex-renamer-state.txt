@@ -1,0 +1,4 @@
+#Thu Oct 19 13:27:25 BRST 2017
+base.0=E\:\\android\\LocalizaMedicos\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_8
+renamed.0=classes.dex
+file.0=E\:\\android\\LocalizaMedicos\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_8\\classes.dex

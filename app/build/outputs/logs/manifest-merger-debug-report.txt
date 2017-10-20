@@ -1,0 +1,160 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\android\LocalizaMedicos\app\src\main\AndroidManifest.xml:2:1-36:12
+	package
+		ADDED from E:\android\LocalizaMedicos\app\src\main\AndroidManifest.xml:3:5-48
+		INJECTED from E:\android\LocalizaMedicos\app\src\main\AndroidManifest.xml
+		INJECTED from E:\android\LocalizaMedicos\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\android\LocalizaMedicos\app\src\main\AndroidManifest.xml
+		INJECTED from E:\android\LocalizaMedicos\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\android\LocalizaMedicos\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from E:\android\LocalizaMedicos\app\src\main\AndroidManifest.xml
+		INJECTED from E:\android\LocalizaMedicos\app\src\main\AndroidManifest.xml
+uses-library#com.google.android.maps
+ADDED from E:\android\LocalizaMedicos\app\src\main\AndroidManifest.xml:5:5-60
+	android:name
+		ADDED from E:\android\LocalizaMedicos\app\src\main\AndroidManifest.xml:5:19-57
+uses-permission#android.permission.INTERNET
+ADDED from E:\android\LocalizaMedicos\app\src\main\AndroidManifest.xml:6:5-67
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] C:\Users\rafaelvianini\.android\build-cache\bcd5eae0ff9557adf370730c8128f41596b13ca0\output\AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from E:\android\LocalizaMedicos\app\src\main\AndroidManifest.xml:6:22-64
+uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
+ADDED from E:\android\LocalizaMedicos\app\src\main\AndroidManifest.xml:7:5-98
+	android:name
+		ADDED from E:\android\LocalizaMedicos\app\src\main\AndroidManifest.xml:7:22-95
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from E:\android\LocalizaMedicos\app\src\main\AndroidManifest.xml:8:5-79
+	android:name
+		ADDED from E:\android\LocalizaMedicos\app\src\main\AndroidManifest.xml:8:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from E:\android\LocalizaMedicos\app\src\main\AndroidManifest.xml:9:5-80
+	android:name
+		ADDED from E:\android\LocalizaMedicos\app\src\main\AndroidManifest.xml:9:22-78
+application
+ADDED from E:\android\LocalizaMedicos\app\src\main\AndroidManifest.xml:11:5-34:19
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\rafaelvianini\.android\build-cache\fa5df16f85448d82dfe378bdd9575a64cdc6f8d6\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\rafaelvianini\.android\build-cache\d52c9abc6f435f6f380af25d6a141fa7f190aec5\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\rafaelvianini\.android\build-cache\4aa88204f715f235cba01f0f69705bec9ac1ad46\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\rafaelvianini\.android\build-cache\e2f39168467bb4fa26c6ec8b3ca41a543fb3ac53\output\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] C:\Users\rafaelvianini\.android\build-cache\bcd5eae0ff9557adf370730c8128f41596b13ca0\output\AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\rafaelvianini\.android\build-cache\f2b4a0035d3ae5e10333e11e14be4fa69eda18fe\output\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] C:\Users\rafaelvianini\.android\build-cache\7bd5caeb355a4686a80e6cb0f144717b6b8252cb\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\rafaelvianini\.android\build-cache\c138847584e971973611dfe72164ed4339ebc102\output\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\rafaelvianini\.android\build-cache\b7faac401845160ef8270d2814f471b8078c0447\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\rafaelvianini\.android\build-cache\7b9a0f878b317952bbad1c1ac5324e32e9b13797\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\rafaelvianini\.android\build-cache\e32a2fae8222b623cab8aac551813cd2834d1424\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\rafaelvianini\.android\build-cache\0acdcf9d7df413ee300ba2f940be8950f5767a9e\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\rafaelvianini\.android\build-cache\788409ce1d0aa034753ee2fe088e0ac0fc0133b3\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\rafaelvianini\.android\build-cache\417f41ec960a0c7137c534c2ea93e93dbb5c78ac\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from E:\android\LocalizaMedicos\app\src\main\AndroidManifest.xml:14:9-41
+	android:supportsRtl
+		ADDED from E:\android\LocalizaMedicos\app\src\main\AndroidManifest.xml:16:9-35
+	android:roundIcon
+		ADDED from E:\android\LocalizaMedicos\app\src\main\AndroidManifest.xml:15:9-54
+	android:allowBackup
+		ADDED from E:\android\LocalizaMedicos\app\src\main\AndroidManifest.xml:12:9-35
+	android:icon
+		ADDED from E:\android\LocalizaMedicos\app\src\main\AndroidManifest.xml:13:9-43
+	android:theme
+		ADDED from E:\android\LocalizaMedicos\app\src\main\AndroidManifest.xml:17:9-40
+activity#br.edu.unochapeco.localizamedicos.MainActivity
+ADDED from E:\android\LocalizaMedicos\app\src\main\AndroidManifest.xml:18:9-24:20
+	android:name
+		ADDED from E:\android\LocalizaMedicos\app\src\main\AndroidManifest.xml:18:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\android\LocalizaMedicos\app\src\main\AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from E:\android\LocalizaMedicos\app\src\main\AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from E:\android\LocalizaMedicos\app\src\main\AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\android\LocalizaMedicos\app\src\main\AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from E:\android\LocalizaMedicos\app\src\main\AndroidManifest.xml:22:27-74
+activity#br.edu.unochapeco.localizamedicos.GridActivity
+ADDED from E:\android\LocalizaMedicos\app\src\main\AndroidManifest.xml:25:9-50
+	android:name
+		ADDED from E:\android\LocalizaMedicos\app\src\main\AndroidManifest.xml:25:19-47
+activity#br.edu.unochapeco.localizamedicos.DetailActivity
+ADDED from E:\android\LocalizaMedicos\app\src\main\AndroidManifest.xml:26:9-61
+	android:name
+		ADDED from E:\android\LocalizaMedicos\app\src\main\AndroidManifest.xml:26:19-49
+service#br.edu.unochapeco.localizamedicos.DownloadService
+ADDED from E:\android\LocalizaMedicos\app\src\main\AndroidManifest.xml:27:9-29:48
+	android:exported
+		ADDED from E:\android\LocalizaMedicos\app\src\main\AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from E:\android\LocalizaMedicos\app\src\main\AndroidManifest.xml:28:13-44
+meta-data#com.google.android.maps.v2.AIzaSyChABsChrLzFKoKua81S_rBRHIr03BAvBE
+ADDED from E:\android\LocalizaMedicos\app\src\main\AndroidManifest.xml:30:9-32:70
+	android:value
+		ADDED from E:\android\LocalizaMedicos\app\src\main\AndroidManifest.xml:32:13-68
+	android:name
+		ADDED from E:\android\LocalizaMedicos\app\src\main\AndroidManifest.xml:31:13-94
+uses-sdk
+INJECTED from E:\android\LocalizaMedicos\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\rafaelvianini\.android\build-cache\fa5df16f85448d82dfe378bdd9575a64cdc6f8d6\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\rafaelvianini\.android\build-cache\d52c9abc6f435f6f380af25d6a141fa7f190aec5\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\rafaelvianini\.android\build-cache\4aa88204f715f235cba01f0f69705bec9ac1ad46\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\rafaelvianini\.android\build-cache\e2f39168467bb4fa26c6ec8b3ca41a543fb3ac53\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] C:\Users\rafaelvianini\.android\build-cache\bcd5eae0ff9557adf370730c8128f41596b13ca0\output\AndroidManifest.xml:23:5-43
+MERGED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\rafaelvianini\.android\build-cache\f2b4a0035d3ae5e10333e11e14be4fa69eda18fe\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] C:\Users\rafaelvianini\.android\build-cache\7bd5caeb355a4686a80e6cb0f144717b6b8252cb\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\rafaelvianini\.android\build-cache\c138847584e971973611dfe72164ed4339ebc102\output\AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\rafaelvianini\.android\build-cache\b7faac401845160ef8270d2814f471b8078c0447\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\rafaelvianini\.android\build-cache\7b9a0f878b317952bbad1c1ac5324e32e9b13797\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\rafaelvianini\.android\build-cache\e32a2fae8222b623cab8aac551813cd2834d1424\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\rafaelvianini\.android\build-cache\0acdcf9d7df413ee300ba2f940be8950f5767a9e\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\rafaelvianini\.android\build-cache\788409ce1d0aa034753ee2fe088e0ac0fc0133b3\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\rafaelvianini\.android\build-cache\417f41ec960a0c7137c534c2ea93e93dbb5c78ac\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\rafaelvianini\.android\build-cache\fa5df16f85448d82dfe378bdd9575a64cdc6f8d6\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from E:\android\LocalizaMedicos\app\src\main\AndroidManifest.xml
+		INJECTED from E:\android\LocalizaMedicos\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\android\LocalizaMedicos\app\src\main\AndroidManifest.xml
+		INJECTED from E:\android\LocalizaMedicos\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\rafaelvianini\.android\build-cache\fa5df16f85448d82dfe378bdd9575a64cdc6f8d6\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\rafaelvianini\.android\build-cache\d52c9abc6f435f6f380af25d6a141fa7f190aec5\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\rafaelvianini\.android\build-cache\4aa88204f715f235cba01f0f69705bec9ac1ad46\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\rafaelvianini\.android\build-cache\b7faac401845160ef8270d2814f471b8078c0447\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\rafaelvianini\.android\build-cache\7b9a0f878b317952bbad1c1ac5324e32e9b13797\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\rafaelvianini\.android\build-cache\e32a2fae8222b623cab8aac551813cd2834d1424\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\rafaelvianini\.android\build-cache\0acdcf9d7df413ee300ba2f940be8950f5767a9e\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\rafaelvianini\.android\build-cache\788409ce1d0aa034753ee2fe088e0ac0fc0133b3\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\rafaelvianini\.android\build-cache\417f41ec960a0c7137c534c2ea93e93dbb5c78ac\output\AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\rafaelvianini\.android\build-cache\fa5df16f85448d82dfe378bdd9575a64cdc6f8d6\output\AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\rafaelvianini\.android\build-cache\fa5df16f85448d82dfe378bdd9575a64cdc6f8d6\output\AndroidManifest.xml:26:9-47
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:11.0.4] C:\Users\rafaelvianini\.android\build-cache\bcd5eae0ff9557adf370730c8128f41596b13ca0\output\AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:11.0.4] C:\Users\rafaelvianini\.android\build-cache\bcd5eae0ff9557adf370730c8128f41596b13ca0\output\AndroidManifest.xml:19:22-76
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:11.0.4] C:\Users\rafaelvianini\.android\build-cache\bcd5eae0ff9557adf370730c8128f41596b13ca0\output\AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:11.0.4] C:\Users\rafaelvianini\.android\build-cache\bcd5eae0ff9557adf370730c8128f41596b13ca0\output\AndroidManifest.xml:21:19-51
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:11.0.4] C:\Users\rafaelvianini\.android\build-cache\bcd5eae0ff9557adf370730c8128f41596b13ca0\output\AndroidManifest.xml:21:52-75
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\rafaelvianini\.android\build-cache\f2b4a0035d3ae5e10333e11e14be4fa69eda18fe\output\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\rafaelvianini\.android\build-cache\f2b4a0035d3ae5e10333e11e14be4fa69eda18fe\output\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\rafaelvianini\.android\build-cache\f2b4a0035d3ae5e10333e11e14be4fa69eda18fe\output\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\rafaelvianini\.android\build-cache\f2b4a0035d3ae5e10333e11e14be4fa69eda18fe\output\AndroidManifest.xml:19:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\rafaelvianini\.android\build-cache\c138847584e971973611dfe72164ed4339ebc102\output\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\rafaelvianini\.android\build-cache\c138847584e971973611dfe72164ed4339ebc102\output\AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\rafaelvianini\.android\build-cache\c138847584e971973611dfe72164ed4339ebc102\output\AndroidManifest.xml:20:20-65
