@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="br.edu.unochapeco.localizamedicos.GridActivity">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginEnd="64dp"
+        android:layout_marginRight="64dp"
+        android:layout_marginTop="81dp"
+        android:padding="12dp"
+        android:text="Médicos Próximos"
+        android:textAlignment="center"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:visibility="visible"
+        tools:layout_editor_absoluteX="135dp"
+        tools:layout_editor_absoluteY="97dp" />
+
+    <ImageView
+        android:id="@+id/imageView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/textView"
+        android:layout_alignLeft="@+id/imageView6"
+        android:layout_alignStart="@+id/imageView6"
+        android:layout_alignTop="@+id/textView"
+        android:adjustViewBounds="true"
+        android:cropToPadding="true"
+        android:visibility="visible"
+        app:srcCompat="@drawable/ic_action_place"
+        tools:layout_editor_absoluteX="52dp"
+        tools:layout_editor_absoluteY="88dp" />
+
+    <ImageView
+        android:id="@+id/imageView5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/imageView6"
+        android:layout_centerHorizontal="true"
+        android:adjustViewBounds="true"
+        android:cropToPadding="true"
+        android:visibility="visible"
+        app:srcCompat="@drawable/ic_action_usermd"
+        tools:layout_editor_absoluteX="176dp"
+        tools:layout_editor_absoluteY="41dp" />
+
+    <ImageView
+        android:id="@+id/imageView6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="17dp"
+        android:layout_marginLeft="17dp"
+        android:layout_marginStart="17dp"
+        android:adjustViewBounds="true"
+        android:cropToPadding="true"
+        android:onClick="backFindEspeciality"
+        android:visibility="visible"
+        app:srcCompat="@drawable/ic_action_back"
+        tools:layout_editor_absoluteX="52dp"
+        tools:layout_editor_absoluteY="39dp"
+        android:layout_above="@+id/imageView4"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <ListView
+        android:id="@+id/listDistanci"
+        style="@style/Widget.AppCompat.ListView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignEnd="@+id/textView"
+        android:layout_alignRight="@+id/textView"
+        android:layout_below="@+id/textView"
+        android:layout_marginTop="44dp"
+        android:layout_toRightOf="@+id/imageView4"
+        android:dividerHeight="2dp"
+        android:footerDividersEnabled="true"
+        android:headerDividersEnabled="true"></ListView>
+
+</RelativeLayout>

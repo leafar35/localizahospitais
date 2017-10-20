@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="br.edu.unochapeco.localizamedicos">
+
+    <uses-library android:name="com.google.android.maps" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="com.google.android.providers.gsf.permission.READ_GSERVICES" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION"/>
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".GridActivity" />
+        <activity android:name=".DetailActivity"></activity>
+        <service
+            android:name=".DownloadService"
+            android:exported="false"></service>
+        <meta-data
+            android:name="com.google.android.maps.v2.AIzaSyChABsChrLzFKoKua81S_rBRHIr03BAvBE"
+            android:value="AIzaSyChABsChrLzFKoKua81S_rBRHIr03BAvBE"/>
+
+    </application>
+
+</manifest>
