@@ -29,7 +29,7 @@
             android:exported="false"></service>
         <meta-data
             android:name="com.google.android.maps.v2.AIzaSyChABsChrLzFKoKua81S_rBRHIr03BAvBE"
-            android:value="AIzaSyChABsChrLzFKoKua81S_rBRHIr03BAvBE"/>
+            android:value="Sua Key"/>
 
     </application>
 
